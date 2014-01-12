@@ -6,7 +6,7 @@ In this repository you will find ready built JackLinx releases in the format of 
 
 2 - Unzip the zip-file into a folder containing the Debian Packages.
 
-3 - Install the packages using GDebi package installer.
+3 - Install the packages using GDebi package installer. You can do this either grapchically or from the command line.
 
 You can obtain and install gdebi using the following command:
 
