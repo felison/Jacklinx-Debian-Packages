@@ -1,4 +1,4 @@
-# Debian Packages.
+# Debian Packages README
 
 In this repository you will find ready built JackLinx releases in the format of Debian Packages.
 
