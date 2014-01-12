@@ -1,11 +1,14 @@
 # JackLinx Suite - Debian package releases.
 
-Here you will find releases in the from of Debian packages.
-You can download the repo using the download as zip button.
-Unzip the zip-file.
-Install the packages using gdebi package manager.
+In this repository you will find releases in the form of Debian packages.
 
-To install gedebi use fowlling command:
+1 - You can download the entire repository using the download as zip button.
+
+2 - Unzip the zip-file.
+
+3 - Install the packages using gdebi package installer.
+
+Install gdebi use following command:
 
 ```
 $ sudo apt-get install gdebi
