@@ -8,5 +8,5 @@ Install the packages using gdebi package manager.
 To install gedebi use fowlling command:
 
 ```
-$ sudo apt-get install gedebi
+$ sudo apt-get install gdebi
 ```
