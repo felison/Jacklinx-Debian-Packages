@@ -8,8 +8,18 @@ In this repository you will find ready built JackLinx releases in the format of 
 
 3 - Install the packages using GDebi package installer. 
 You can do this 
-- either grapchically: $ gdebi-gtk 
-- from the command line: $ gedebi <package>
+- either grapchically: 
+ 
+```
+$ gdebi-gtk 
+```
+
+
+- from the command line: 
+
+``` 
+$ gedebi <package>
+```
 
 You can obtain and install gdebi using the following command:
 
